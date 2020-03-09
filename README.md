@@ -19,12 +19,7 @@
 <code> git clone https://github.com/dharmendrashah/urlShortner.git </code>
 <br/>
 and then you have to type this in your command line tools
-
-<code>
-npm install
-</code>
+One <code>npm install</code>
 <br/>
-<code>
-npm run devStart
-</code>
-and then browse this to <url>http://localhost:5000/<url></url>
+two <code>npm run devStart</code>
+and then browse this to <code>http://localhost:5000</code>
