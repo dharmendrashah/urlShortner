@@ -1,12 +1,9 @@
 # urlShortner
 
-# database
- <h1>MongoDb</h1>
-
- # description
+ # Description
 <p>This will short the url and update them to the database and see how much clicks are on this databse </p>
 
-# requirements
+# Requirements
 
 <ol>
 <li>MongoDB</li>
