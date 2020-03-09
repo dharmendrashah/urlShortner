@@ -16,7 +16,7 @@
 
 # start
 <p> for start this you have to clone this project to the local directory by using this
-<code> git clone https://github.com/dharmendrashah/urlShortner.git <code>
+<code> git clone https://github.com/dharmendrashah/urlShortner.git </code>
 <br/>
 and then you have to type this in your command line tools
 
